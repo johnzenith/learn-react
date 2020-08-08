@@ -1,0 +1,6 @@
+# Material UI (https://material-ui.com): $ npm install @material-ui/core
+# Formik (https://formik.org): $ npm install formik --save
+# ReactRouter (https://reactrouter.com): $ npm install react-router-dom
+# Rebass Js (https://rebassjs.org/forms): $ npm i rebass
+# Ant-Design (https://github.com/ant-design/ant-design)
+# React Semantic UI (https://react.semantic-ui.com/):  npm install semantic-ui-react semantic-ui-css
